@@ -1,4 +1,4 @@
-# Rails Engineer
+# Rails Engine
 This project was completed by [Deb Hamel](https://github.com/deborahleehamel) and [Karina Gonzalez](https://github.com/ckaminer).
 
 ## Setup
